@@ -71,3 +71,21 @@ h3 {
   cursor: pointer;
   opacity: 0.6;
 }
+
+.final {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.final h2 {
+    font-size: 40px;
+    margin: 10px 0;
+}
+
+.final h3 {
+    font-size: 24px;
+    opacity: 0.9;
+}
